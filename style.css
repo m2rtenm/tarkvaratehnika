@@ -1,0 +1,78 @@
+a.btn.btn-primary.btn-large{
+    padding: 18px 28px;
+    font-size: 22px; 
+}
+
+html, body, {
+    text-align:center;
+    width:100%;
+    height:100%;
+}
+div#regform.row {
+    padding-left: 0;
+    padding-right: 0;
+    min-height: auto;
+    background: rgba(17,108,130,0.7);
+    border-radius: 25px;
+    box-shadow: none;
+    border: none;
+    margin-top: 40px;
+    font-family: "Roboto"; 
+    font-size: 20px;
+    
+}
+
+div.jumbotron.text-center {
+    padding: 60px !important; 
+    background-color:transparent !important;
+}
+nav.navbar.navbar-default.pull-right{
+    padding-left: 0;
+    padding-right: 0;
+    min-height: auto;
+    background: rgba(17,108,130,0.7);
+    border-radius: 25px;
+    box-shadow: none;
+    border: none;
+    margin-top: 40px;
+    font-family: "Roboto"; 
+    font-size: 20px;
+}
+a.brand {
+    content: url(img/brand.png);
+    max-width: 30%;  
+}
+a{
+    color: white! important;
+}
+form{
+    color: white;
+}
+@font-face { 
+    font-family: "Roboto"; 
+    src: url('Roboto-Thin.ttf'); 
+} 
+
+h1 {
+    font-family: "Roboto";
+}
+
+h2{
+    color: white! important;
+    font-family: "Roboto"! important;
+}
+h3 {
+    color:white! important;
+    font-family: "Roboto"! important;
+    text-align: left;
+}
+#regform{
+    background: rgba(17,108,130,0.7);
+}
+
+body {
+     display: inline-block;
+     background: url(img/Background.jpg) no-repeat;
+     background-size: cover;
+     background-repeat:no-repeatdisplay: compact;
+     font: 13px/18px "Helvetica Neue", Helvetica, Arial, sans-serif;
